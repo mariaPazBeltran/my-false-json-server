@@ -103,7 +103,7 @@
     }
   ],
   "banners":{
-    "desktop":[],
-    "mobile":[]
+    "desktop":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-people-desktop.png", "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-fachada-desktop.png"],
+    "mobile":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-people-mobile.png", "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-fachada-mobile.png"]
   }
 }
