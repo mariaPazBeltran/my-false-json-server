@@ -101,5 +101,9 @@
       "name": "Carlos",
       "ferreteria": ""
     }
-  ]
+  ],
+  "banners":{
+    "desktop":[],
+    "mobile":[]
+  }
 }
