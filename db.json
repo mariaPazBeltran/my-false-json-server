@@ -22,7 +22,8 @@
       "carouselImg": [],
       "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
     },
-    { "id": 3,
+    { 
+      "id": 3,
       "url": "CASA-FRANCO-ASOCIADO-DE-CHILEMAT-CUMPLE-113-AÑOS-DE-HISTORIA",
       "date": "2020-05-02T20:10:03.896Z",
       "title": "CASA FRANCO, ASOCIADO DE CHILEMAT, CUMPLE 113 AÑOS DE HISTORIA", 
@@ -116,8 +117,117 @@
       "ferreteria": ""
     }
   ],
+  "testimony":[
+    {
+      "id": 1,
+      "date": "2021-05-27T20:10:03.896Z",
+      "img": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Gonzalo",
+      "ferreteria": "Madesur"
+    },
+    {
+      "id": 2,
+      "date": "2021-05-25T20:10:03.896Z",
+      "img": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img2.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Julio",
+      "ferreteria": ""
+    },
+    {
+      "id": 3,
+      "date": "2020-12-25T20:10:03.896Z",
+      "img": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Eli",
+      "ferreteria": "Dimaco"
+    }
+  ],
   "banners":{
     "desktop":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-people-desktop.png", "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-fachada-desktop.png"],
     "mobile":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-people-mobile.png", "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-fachada-mobile.png"]
-  }
+  },
+  "news":[ 
+    { 
+      "id": 3,
+      "url": "CASA-FRANCO-ASOCIADO-DE-CHILEMAT-CUMPLE-113-AÑOS-DE-HISTORIA",
+      "date": "2020-05-02T20:10:03.896Z",
+      "title": "CASA FRANCO, ASOCIADO DE CHILEMAT, CUMPLE 113 AÑOS DE HISTORIA", 
+      "resume": "", 
+      "news":"<p>Los hermanos José y Joaquín Franco Castillón dejaron muy jóvenes su España natal para desembarcar en Chile, llegando al puerto de Valparaíso. No obstante, fue en Curicó donde construyeron su gran obra que este 2020 está cumpliendo 113 años de vida: Casa Franco, la conocida casa comercial de esa ciudad, fundada en 1907.</p><p>Luego de reunir dinero para iniciar el negocio, fueron agregando nuevos artículos a su oferta, necesitando pronto de otras manos españolas para sostener su pequeña empresa, por lo que varios familiares arribaron al país durante las décadas siguientes.</p><p>El proyecto se fue consolidando, pero un gran incendio afectó sus dependencias en 1949. Fue un duro golpe, pero recibieron ayuda de Santiago Furgoni, quien los apoyó en la recompra de materiales para la venta. Desde aquel momento se reconstruyó lo que es su local actual.</p><p>A lo largo de su historia han enfrentado diversas crisis, sin embargo, gracias a la fidelidad de los curicanos las han superado, pues aprecian la atención personalizada que brindan. Actualmente, sus socios son Pedro Ceresuela Barrau, Ángel Domper Pons y Javier Domper Cavalla, además de las hermanas Milagros y Verónica Ceresuela Barrau y los hermanos Pedro, Joaquín y María Isabel Puertas Aventin. En la gerencia general se encuentra Pilar Sanhueza S. </p><p>Casa Franco cuenta con 60 colaboradores para sus distintas áreas, como Cerámica (Línea Hogar), Menaje, Abarrotes y Ferretería, entre otras. En ese rubro, y para continuar creciendo, se asociaron a la cadena ferretera Chilemat, lo que no solo les permite realizar compras en grandes volúmenes, sino también seguir mejorando esa atención al cliente que los ha caracterizado desde su creación a inicios del siglo XX.</p>", 
+      "cardImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Noticia%20Aniversario%20CasaFranco%202020/CASA-FRANCO-ANTIGUA-B.png",
+      "articleImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Noticia%20Aniversario%20CasaFranco%202020/retoque-casa-franco.png",
+      "carouselImg": [],
+      "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
+    },
+    { "id": 5,
+      "url": "Semana-de-Negocios-de-Chilemat-conectó-con-éxito-a-socios-de-la-cadena-con-cientos-de-proveedores",
+      "date": "2020-08-15T20:10:03.896Z",
+      "title": "Semana de Negocios de Chilemat conectó con éxito a socios de la cadena con cientos de proveedores", 
+      "resume": "La iniciativa propuso un gran encuentro comercial bajo el lema “Más unidos que nunca”, desarrollándose de manera 100% online.", 
+      "news":"<p>Una actividad pionera para el rubro ferretero organizó Chilemat entre el 10 y 13 de agosto pasados, al desarrollar totalmente online un gran encuentro comercial llamado Semana de Negocios, que reunió a los asociados de la cadena con más de 100 importantes proveedores de la industria de la construcción.</p><p>El evento, desarrollado en vivo desde un set de televisión, estuvo liderado por Hernán Cornú, gerente general de Chilemat, en compañía de Claudio Merino, subgerente general; Enrique Reyes; gerente de Marketing y Desarrollo; y Pedro Teani, gerente Comercial, quienes tuvieron la misión de explicar los objetivos, funcionamiento y contenidos de una iniciativa que superó las expectativas iniciales.</p><p><strong>“Los resultados fueron impresionantes. No solo porque se superaron las metas a nivel comercial, sino también por el impacto positivo que produjo en términos de confianza y compromiso. Logramos confirmar nuestro slogan construido para la ocasión: <em>“Más unidos que nunca”</em></strong>, reconoció Cornú.</p><p>En efecto, durante cuatro intensos días, el equipo Comercial apoyó la gestión de compra de sus socios hacia los proveedores que participaron de la actividad, una labor fundamental a la que sumó el área de Logística, recepcionando, almacenando y distribuyendo los productos transaccionados.</p><p>Recordemos que la Semana de Negocios surge a partir de la imposibilidad de efectuar ExpoFerretera, el evento anual más importante organizado por Chilemat, que conecta a las principales ferreterías del país con los proveedores más relevantes del sector construcción. Fue la pandemia del coronavirus la que obligó a la cadena a desestimar cualquier actividad que aglomerara personas.</p><p>Sin embargo, la necesidad generó nuevas oportunidades. <strong>“Esta situación crítica la transformamos en un acto de unión a distancia, gracias a la tecnología y la capacidad que tenemos los seres humanos de adaptarnos y luchar contra la adversidad”</strong>, explicó su gerente general.</p><p><strong>“Hemos desarrollado con éxito esta importante iniciativa y, gracias a sus resultados, será la primera de muchas. No obstante, no actuará como reemplazo en ningún caso de nuestra Expo Ferretera, sino que será una nueva plataforma comercial con identidad propia que ya está incluida en la agenda del 2021. Con esto, ampliaremos el abanico de posibilidades para nuestros asociados y proveedores”</strong>, puntualizó Hernán Cornú.</p>", 
+      "cardImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Noticia%20SDN%20agosto%202020/DSC_0037.png",
+      "articleImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Noticia%20SDN%20agosto%202020/DSC_0035.png",
+      "carouselImg": [],
+      "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
+    },
+    { "id": 6,
+      "url": "Chilemat-tiene-nuevo-socio-SAMACO-entra-para-consolidar-su-crecimiento-en-la-construcción",
+      "date": "2020-03-15T20:10:03.896Z",
+      "title": "Chilemat tiene nuevo socio: SAMACO entra para consolidar su crecimiento en la construcción", 
+      "resume": "Con su ingreso como asociado, busca ser más competitiva en nuestro mercado.", 
+      "news":"<p>SAMACO fue formada por un equipo de profesionales con vasta experiencia en el sector ferretero. Uno de ellos, Antonio Torres, cuenta los motivos que los llevaron a incorporarse como nuevos socios de Chilemat. </p><p>“Hemos obtenido precios competitivos y gran seguridad en cuanto a la calidad de los productos, como en el caso de la madera, pues compramos a proveedores que pertenecen a la misma cadena”, señala, y agrega que, desde el primer momento, han accedido a varios beneficios, como contar con una amplia gama de proveedores sin tener que pasar por un distribuidor. </p><p>Torres ingresó al rubro ferretero en 2001 tras desempeñarse como gerente de finanzas de Comercial El Bosque, pero recién 10 años decidió emprender su propio negocio, al abrir su primera ferretería que llamó SAMACO Limitada, junto a su socio Heraldo Lucero.</p><p>En ese entonces, viajó a China para comenzar a importar terciados y yeso-cartón. “Hasta 2019 no teníamos un local comercial, vendíamos directamente a constructoras y algunas ferreterías de Iquique y Alto Hospicio”, recuerda.</p><p>En la actualidad, su local se ha consolidado como una marca prestigiosa en el mercado constructivo al entregar diversas soluciones, desde los básicos taladros profesionales hasta maquinaria pesada. Asimismo, han logrado trabajar en diversos proyectos, tanto en edificación, urbanización y obras civiles de gran envergadura. </p><p>No obstante, Torres advirtió en un punto que se les estaba haciendo muy difícil seguir creciendo. “Las cadenas con las cuales competimos, realizaban una serie de acciones para que no pudiéramos comprar a los proveedores de manera directa. Esta situación nos dejaba automáticamente fuera de una serie de negocios”, aclara.</p><p>Por ello decidieron ingresar a Chilemat como nuevos asociados, para darle ese empujón necesario al negocio, potenciar su posición en el mercado y volverse aún más competitivos.</p>", 
+      "cardImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Nuevo%20Asociado%20SAMACO%20marzo%202020/Samaco-Diego-Portales-2055,-Iquique.png",
+      "articleImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Nuevo%20Asociado%20SAMACO%20marzo%202020/retoque_Heraldo_samaco_2.png",
+      "carouselImg": ["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Nuevo%20Asociado%20SAMACO%20marzo%202020/antonio-torres.png", "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Nuevo%20Asociado%20SAMACO%20marzo%202020/retoque_Heraldo_samaco_2.png"],
+      "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
+    },
+    { "id": 7,
+      "url": "Comercial-CyC-se-une-a-Chilemat-para-seguir-destacando-en-el-rubro-industrial-de-Talca",
+      "date": "2020-03-15T20:10:03.896Z",
+      "title": "Comercial CyC se une a Chilemat para seguir destacando en el rubro industrial de Talca", 
+      "resume": "La ferretería se incorporó recientemente a la cadena para potenciar su servicio, que provee soluciones, maquinarias y herramientas a las obras constructivas de la región del Maule.", 
+      "news":"<p>Al igual que en un gran porcentaje de la industria ferretera nacional, Comercial Castro y Castro (CyC) nació como una empresa familiar. Su dueño y actual gerente de Administración y Finanzas, Juan Paulo Castro, explica que hoy su negocio se especializa en el rubro industrial y de la construcción, por lo que espera seguir creciendo luego de ingresar como socio a la cadena Chilemat.</p><p>Su ferretería abrió en 1993 en Talca. Su padre siempre estuvo vinculado al área, pues trabajó en la recordada compañía Gleisner. “Desde mi niñez siempre estuve unido al sector, ya que tenía contacto con él y lo visitaba en su trabajo. Esto me permitió ir conociendo este amplio y diverso rubro”, advierte Castro.</p><p>Pese a que su formación académica está relacionada al ámbito agrícola -es Ingeniero Agrónomo de la U. de Talca-, se mantuvo apoyando el negocio en la parte administrativa. Fue en 2015 cuando decidió volcarse 100% a este proyecto familiar.</p><p>Sin embargo, su llegada no fue fácil, porque durante el terremoto que sufrió el país en 2010 la ferretería se derrumbó. “Debimos pararnos debajo del adobe de aquella construcción para poder seguir avanzando, pero nos reordenamos”, recuerda.</p><p>Fue así como el año 2013, decidió comprar un terreno más grande para construir un local comercial que, en la actualidad, tiene una superficie de 600 m2 construidos y una bodega de almacenaje de 1.200 m2. El barrio oriente de Talca es la zona que eligieron para desarrollarse y crecer como empresa.</p><p>Por estos días, Comercial CyC destaca en el área de la ferretería industrial, gracias a un sólido stock de productos para la construcción. “Estamos constantemente atendiendo obras en distintos puntos de la región, lo que conlleva tener un amplio mix para esos requerimientos, desde artículos de ferretería, fitting, maquinarias, materiales de construcción, además de artículos de aseo industrial y de librería, los que nos permite cerrar la cadena de abastecimiento de nuestros clientes”, señala.</p><p>En estos últimos años, también se han focalizado en ser un proveedor integral del Estado, demostrando que su servicio es de primer orden.</p><p>Es esta misma búsqueda por crecer la que los llevó a incorporarse a Chilemat hace pocos meses. “Tomamos la decisión de anclarnos a este proyecto porque nos permitirá, con esfuerzo y trabajo, seguir creciendo en nuestra ciudad y país. Se ve un fuerte liderazgo hacia el trabajo en equipo en esta cadena, con rigurosidad y orden. Eso fue lo que nos alentó”, reconoce Juan Paulo Castro.</p><p>De hecho, ya han podido acceder a distintos beneficios desde su incorporación como socios. “Pertenecer nos ha facilitado la gestión de compra. Tenemos más alternativas de proveedores, lo que nos hace más competitivos en este mercado”, puntualiza.</p><p>Por otra parte, todo se canaliza administrativamente entre Chilemat y el proveedor. “No tenemos que andar actualizando la información para que nos evalúen las líneas de crédito. Asimismo, podemos concentrar todas nuestras compras en las bodegas de la cadena, lo que nos ayuda a ahorrar en fletes, y no desgasta a nuestros trabajadores recorriendo todo Santiago”, concluye el dueño y gerente de Administración y Finanzas de Comercial CyC.</p>", 
+      "cardImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Nuevo%20Asociados%20CYC%20marzo%202020/juan-y-enrique-castro.png",
+      "articleImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Nuevo%20Asociados%20CYC%20marzo%202020/Comercial-C-y-C-Calle-Quince-Oriente-601,-Talca.png",
+      "carouselImg": [],
+      "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
+    } 
+  ],
+  "newStores":[
+    { "id": 1,
+      "url": "Nueva-ferretería-5-Sur-abastecera-los-sectores-de-Champa-y-Hospital-en-Paine",
+      "date": "2020-11-15T20:10:03.896Z",
+      "title": "Nueva ferretería 5 Sur abastecerá los sectores de Champa y Hospital en Paine", 
+      "resume": "Su gerente general, Juan Vergara, espera convertir el local en un referente comercial de la zona con el apoyo de Chilemat, brindando una oferta variada y de calidad.", 
+      "news":"<p>Los socios de Chilemat siguen ampliando su presencia a nivel nacional. Un ejemplo de este crecimiento es el nuevo local abierto por Juan Vergara, quien inauguró recientemente la Ferretería 5 Sur para abastecer a los sectores de Champa y Hospital, ubicados en la comuna de Paine.</p><p>La historia es familiar y comienza en 2010 en Aculeo, cuando surge la necesidad de contar con materiales de construcción luego del terremoto ocurrido ese año. Con un abanico de productos básicos al inicio, la tienda fue creciendo hasta lograr un sello distintivo en la zona de Paine, con una oferta de valor enfocada en proporcionar un servicio logístico de excelencia.</p><p>Para seguir expandiendo su negocio, su gerente general abrió este nuevo proyecto para estas dos localidades, una ferretería que cuenta con 6.500 m2 de superficie total, de los cuales 600 m2 corresponderán al local en una primera etapa. “Si bien al principio estar en un lugar tan aislado como Aculeo fue una ventaja, crecer y satisfacer otras zonas encarecía mucho el costo de transporte. Por eso, para llegar a nuevos clientes, buscamos un sector que estuviese visible, cercano y de fácil acceso”, afirma Vergara.</p><p>Además, con esta tienda nuestro asociado busca dinamizar económica y socialmente ambos sectores, transformándose en un referente comercial para Paine. “A nivel comunal aspiramos a ser líderes en el rubro ferretero, con una oferta de productos variada, de calidad y con precios competitivos”, asegura.</p><p>En este proceso tan demandante, la cadena no sólo le ha contribuido en la relación de compra con los proveedores, también lo ha hecho con todo el proceso logístico al contar con un centro de distribución en San Bernardo, y con la estandarización y modernización de su ferretería, entre otros importantes beneficios.</p><p>Sin embargo, para Juan Vergara el apoyo más importante de Chilemat ha sido la experiencia entregada para llevar adelante este proyecto. “Tiene mucho valor para quienes ingresamos y no tenemos tanta trayectoria en el área. La suma de ambos aportes es una fuente de recursos que permite sacar todo tu potencial para hacer crecer el negocio”, puntualiza.</p>", 
+      "cardImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Inauguracion%20Ferreteria%205%20sur%20nov%202020/DSC_0005.JPG",
+      "articleImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Inauguracion%20Ferreteria%205%20sur%20nov%202020/DSC_0056.JPG",
+      "carouselImg": [],
+      "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
+    },
+    { "id": 2,
+      "url": "Beach-Market-potencia-su-oferta-inaugurando-nueva-ferretería-en-Tomé",
+      "date": "2021-04-15T20:10:03.896Z",
+      "title": "Beach Market potencia su oferta inaugurando nueva ferretería en Tomé", 
+      "resume": "El socio de Chilemat ya suma tres locales en esa comuna, ampliando la gama de productos para sus clientes de la zona. No sería la única novedad, porque proyecta abrir otra tienda en Chillán en los próximos meses.", 
+      "news":"<p><strong>“Todos los materiales en un solo lugar”,</strong>. Bajo ese eslogan, la empresa Beach Market apostó por consolidar su presencia en la localidad de Tomé (Región del Biobío), estrenando su tercera ferretería en esa comuna, llegando a cinco locales en dos regiones distintas.</p><p>La nueva tienda tiene una superficie de 750 m2 y dará trabajo a ocho personas, sumando 80 colaboradores para su área ferretera total. <strong>“Nos integramos muy bien al ofrecer una amplia gama de artículos, ya que la mayor oferta estaba en Concepción. Por lo mismo, el desafío fue aumentar en una gran cantidad los ítems de productos, para que así nuestros clientes no tuvieran que viajar”</strong>, explica Jaime Eriz, gerente general de Beach Market.</p><p>El socio de Chilemat -que ingresó a la red en 2015 y entró al rubro ferretero en 2012 al trasladar su primer local de Chillán a Dichato-, está agradecido del aporte que la cadena le ha entregado en los diversos ámbitos del negocio, contribuyendo a optimizar su administración interna, desarrollo de tienda, layout, publicidad, compras estratégicas, mejora logística, informática, convenios y capacitación, además de la siempre “grata convivencia con los asociados de Chilemat y su administración”.</p><p>Su próximo objetivo, la ciudad de Chillán. Con más de 200.000 habitantes, es una ciudad con un gran potencial para continuar con su desarrollo. La gran cantidad de empresas del rubro “Ferretería y Materiales de Construcción” existentes en esta ciudad permiten augurar buenos resultados apostando a captar parte de este mercado ofreciendo gran variedad de productos y buen servicio.</p><p>En el largo plazo, asegura que orientarán sus esfuerzos en la apertura de supermercados y más ferreterías, aunque por ahora mantendrán todo en compás de espera evaluando cómo se muestra el mercado.</p>", 
+      "cardImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Inauguración%20Tomé%20abril%202021/Tomé-fachada.png",
+      "articleImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Inauguración%20Tomé%20abril%202021/JEriz-en-Ferre.png",
+      "carouselImg": [],
+      "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
+    }, 
+    { 
+      "id": 4,
+      "url": "Ferremel-abre-local-en-Melipilla-y-continúa-creciendo",
+      "date": "2021-01-15T20:10:03.896Z",
+      "title": "Ferremel abre local en Melipilla y continúa creciendo", 
+      "resume": "De la mano de Chilemat, la nueva ferretería se instala en una comuna con un “mercado potencial muy relevante”, aseguró su gerente general, Udo Kretschmer.", 
+      "news":"<p>Ya a fines de 2016, la idea de abrir una ferretería en Melipilla rondaba en las cabezas de Udo Kretschmer y Jean Louis Hierard, socios en Ferremel. Sin embargo, otro proyecto en San Clemente dilató la iniciativa, aunque solo por un tiempo, porque recientemente inauguraron un nuevo local en esa comuna ubicada al suroeste de Santiago, con la que esperan seguir haciendo crecer el negocio.</p><p><strong>“Desarrollamos este nuevo local con la intención de aportar a la comuna, pues cuenta con un área geográfica muy extensa y una población que constantemente está aumentando. Además, posee un componente silvoagropecuario relevante y un mercado potencial importante al que podemos entregar nuestros productos. Todo esto nos ha hecho trabajar intensamente en temas logísticos, y así brindar el mejor servicio a los clientes”</strong>, reconoce Kretschmer, a cargo de la gerencia general</p><p>La nueva sucursal está emplazada en un terreno de 9.550 m2, con una sala de venta de 1.300 m2, posee amplias bodegas y estacionamientos para los usuarios. Y aunque no fue posible realizar un evento de apertura, debido primero al estallido social y luego a lo acontecido con la pandemia, agradecieron la preferencia de los clientes con un sorteo de un automóvil 0 KM que, por cierto, fue todo un éxito.</p><p>En relación al aporte de Chilemat, advierten que la cadena ha sido fundamental en su desarrollo, pues siempre han estado presentes en cada una de sus nuevas ideas.<strong>“Desde un inicio nos han ayudado en el área de marketing, con la discusión y elección de los diseños, superficies y layouts, además de aspectos tan valiosos como nuestra imagen corporativa”</strong>, puntualiza el ejecutivo.</p><p>Udo Kretschmer espera continuar progresando en el mediano y largo plazo con Ferremel. <strong>“Tuvimos un buen año 2020 y proyectamos seguir creciendo, en la medida que trabajemos duro para incrementar nuestra cobertura en distintas zonas, así como en nuestro número de clientes”</strong>, asegura.</p>", 
+      "cardImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Noticia%20Ferremel%20enero%202021/DSC_0031.png",
+      "articleImg": "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/noticias/Noticia%20Ferremel%20enero%202021/DSC_0025.png",
+      "carouselImg": [],
+      "multimedia":"https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/img1.jpg"
+    }
+  ]
 }
