@@ -60,8 +60,50 @@
 
   "banners":{
     "desktop":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/new-banner-retocado_web.jpg"],
-    "mobile":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/____banner-principal_responsive.jpg"]
+    "mobile":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-principal_responsive.jpg"]
   },
+  "proveedores":[
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta1.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta2.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta3.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta4.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta5.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta6.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta7.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta8.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta9.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta10.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta11.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta12.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta13.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta14.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta15.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta16.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta17.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta18.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta19.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta20.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta21.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta22.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta23.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta24.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta25.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta26.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta27.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta28.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta29.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta30.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta31.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta32.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta33.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta34.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta35.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta36.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta37.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta38.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta39.png",
+    "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Prancheta40.png"
+  ],
 
   "news":[ 
     { 
