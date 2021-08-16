@@ -59,7 +59,7 @@
   ],
 
   "banners":{
-    "desktop":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/new-banner-retocado_web.jpg"],
+    "desktop":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/new-banner-retocado_web_chico.jpg"],
     "mobile":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-principal_responsive.jpg"]
   },
   "proveedores":[
