@@ -59,7 +59,7 @@
   ],
 
   "banners":{
-    "desktop":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/new-banner-retocado_web_chico.jpg"],
+    "desktop":["https://firebasestorage.googleapis.com/v0/b/chilemat-cl.appspot.com/o/banners_home%2FChilemat_cl_2021_Novo_JP-09.png?alt=media&token=1770e2af-98ff-40a8-ba2e-3945e07969c2"],
     "mobile":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-principal_responsive.jpg"]
   },
   "proveedores":[
