@@ -59,8 +59,8 @@
   ],
 
   "banners":{
-    "desktop":["https://firebasestorage.googleapis.com/v0/b/chilemat-cl.appspot.com/o/banners_home%2FChilemat_cl_2021_Novo_JP-09.png?alt=media&token=1770e2af-98ff-40a8-ba2e-3945e07969c2"],
-    "mobile":["https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/banners/banner-principal_responsive.jpg"]
+    "desktop":["https://firebasestorage.googleapis.com/v0/b/chilemat-cl.appspot.com/o/banners_home%2Fbanner-principal_desktop.png?alt=media&token=6b7309df-1b05-452e-b128-d1467ac7f245"],
+    "mobile":["https://firebasestorage.googleapis.com/v0/b/chilemat-cl.appspot.com/o/banners_home%2Fbanner-principal_responsive.png?alt=media&token=7d64e43b-c05c-4638-93bc-44337ad83d23"]
   },
   "proveedores":[
     "https://raw.githubusercontent.com/mariaPazBeltran/my-false-json-server/main/proveedores/Proveedores-14.png",
